@@ -60,4 +60,9 @@ public class Util {
         xor();
         list();
     }
+
+    public void scannerEx(){
+        Scanner sc=new Scanner(System.in);
+        int rollno=sc.nextInt();
+    }
 }
